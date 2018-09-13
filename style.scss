@@ -24,7 +24,28 @@ body {
   border-style: 2px solid ;
   border-width: 2px;
 }
+able {
+border-collapse: collapse;
+width: 100%;
+}
 
+table, th, td {
+border: 1px solid white;
+background-color:#984b43;
+
+}
+
+td {
+vertical-align: middle; 
+padding: 10px;
+}	
+
+th {
+color: white;
+background: #233237;
+height:50px;
+vertical-align: middle;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
