@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>I am not understanding - blog 2</td>
+    <td>I Am Not Understanding - blog 2</td>
     <td>Date</td>
     <td>19/09/18</td>
   </tr>
@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Definitely not annoyingly</td>
+    <td>Definitely not, annoyingly</td>
   </tr>
 </table>
 
