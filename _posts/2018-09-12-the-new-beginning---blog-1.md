@@ -1,5 +1,5 @@
 ---
-title: the new beginning - blog 1
+title: The New Beginning - Blog 1
 layout: post
 author: james.adcock
 permalink: /the-new-beginning---blog-1/
