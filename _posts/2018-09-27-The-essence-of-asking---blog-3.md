@@ -1,5 +1,5 @@
 ---
-title: The essence of asking - blog 3
+title: The essence of asking - Blog 3
 layout: post
 author: james.adcock
 permalink: /the-essence-of-asking---blog-3/
