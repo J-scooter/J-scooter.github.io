@@ -1,5 +1,5 @@
 ---
-title: I am confused  - blog 2
+title: I am confused  - Blog 2
 layout: post
 author: james.adcock
 permalink: /i-am-confused----blog-2/
